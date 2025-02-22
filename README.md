@@ -45,5 +45,3 @@ git clone https://github.com/your-username/Mini-Game.git
 cd Mini-Game
 
 # Run the game by opening index.html in a browser
-
-🔹 Have fun playing! 😊

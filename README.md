@@ -1,6 +1,6 @@
 # 🎮 Mini-Game
 
-A fun and interactive mini-game built using **HTML, CSS, and JavaScript**. This game includes engaging gameplay mechanics, sound effects, and an intuitive user interface.
+A fun and interactive simon mini-game built using **HTML, CSS, and JavaScript**. This game includes engaging gameplay mechanics, sound effects, and an intuitive user interface.
 
 ---
 
